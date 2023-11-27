@@ -1,0 +1,351 @@
+{
+  "main": {
+    "id": "23c535bff51d0550",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e04ea8572d31f70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd38afa58bbe44b9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7876c321433d1829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TERMINAL LINUX/Windows home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be9fbe59ab22d937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TERMINAL LINUX/Windows home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43423408b885a4a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Licenças de Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afdbf189dfea8642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TERMINAL LINUX/Windows home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e28f655c3ad7b315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TERMINAL LINUX/Comandos no terminal Ubuntu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20ad6cc13aa09870",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c36ad2adcf35ef80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TERMINAL LINUX/Terminal Ubuntu- criar diretorios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa4ca32ca5d6d91d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TERMINAL LINUX/INSTALANDO E ATUALIZANDO PACOTES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b10dbda1fa2a0837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TERMINAL LINUX/INSTALANDO E ATUALIZANDO PACOTES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf63d2a1e65ebfb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TERMINAL LINUX/Ubuntu/PERMISSÕES DE USUARIOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10077d56604f70f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfba65ccb80950ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c7cb03a0ef0707b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20231026104425.png"
+              }
+            }
+          },
+          {
+            "id": "b48634ce278d061b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TERMINAL LINUX/Chaves windows Pro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "595d016343b769b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6834436a25137bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfd48c53abd8c843",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "9f01e7dbcb84cd10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06725ab70b966757",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b3aafc71a5fddb3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7188cbe099d034e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef7e1d702de7e3e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20231026104425.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53d91b90fc7203bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20231026104425.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbaaa6a40b541746",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f7275b6c1352f3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20231026104425.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "6c7cb03a0ef0707b",
+  "lastOpenFiles": [
+    "Sem título 2.md",
+    "Design Digital/UX E UI.md",
+    "Anotações das provas/Prova 1.md",
+    "Linux/Licenças de Software.md",
+    "POSSIVEIS PROBLEMAS NA MAQUINA VIRTUAL/VM WARE SEM INTERNET.md",
+    "Sem título 1.md",
+    "Sem título.md",
+    "Sem título",
+    "Anotações das provas",
+    "TERMINAL LINUX/Ubuntu/PERMISSÕES DE USUARIOS.md",
+    "TERMINAL LINUX/Terminal Ubuntu- criar diretorios.md",
+    "TERMINAL LINUX/INSTALANDO E ATUALIZANDO PACOTES.md",
+    "TERMINAL LINUX/erro 080070522.md",
+    "TERMINAL LINUX/EDITANDO ARQUIVOS NO TERMINAL.md",
+    "TERMINAL LINUX/COMPACTAÇÃO NO TERMINAL.md",
+    "TERMINAL LINUX/Comandos no terminal Ubuntu.md",
+    "TERMINAL LINUX/Chaves windows Pro.md",
+    "Linux/Kernel.md",
+    "Linux/Historia.md",
+    "Linux/GNU.md",
+    "Linux/Fundações ligadas ao Linux.md",
+    "Linux/Filosofia.md",
+    "Linux/BOOT.md",
+    "Linux/Aplicações.md",
+    "TERMINAL LINUX/Boot na maquina virtual.md",
+    "TERMINAL LINUX/BOOT NA MAQUINA FISICA.md",
+    "Instalando programas fora do repositorio Linux.md",
+    "TERMINAL LINUX/Windows home.md",
+    "Pasted image 20231026104425.png",
+    "Pasted image 20231025113434.png",
+    "Pasted image 20231025112827.png",
+    "Pasted image 20231025111247.png",
+    "Linux/Pasted image 20231009115123.png",
+    "TERMINAL LINUX/PERMISSÕES DE USUARIO",
+    "Linux/Untitled.canvas",
+    "POSSIVEIS PROBLEMAS NA MAQUINA VIRTUAL",
+    "TERMINAL LINUX",
+    "Linux/Pasted image 20231006125346.png",
+    "TERMINAL LINUX/Ubuntu",
+    "TERMINAL LINUX/Pasted image 20231011234854.png"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "2b65f15656fffff5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fb264cfd3ee8640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35007e6a16bd449f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tratando o em branco.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0153c56f9e56c535",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "17844676d66d9a95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tratando o em branco.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ff180b2ec7d545b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TARJA AMARELA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de1c52ff9f4c2805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GRAFICO FILTRADO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c4d33faccef3f30",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f221d0a5c79532b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d64124a898130e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de50f071fa4e5fe8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9e826cef7c031f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f39d801068c131d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e250cf7130f53d5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8da7f0b723f1a612",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GRAFICO FILTRADO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02ad0b1419740abd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GRAFICO FILTRADO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "630fbe41d92bbb2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2143fc8161720f8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GRAFICO FILTRADO.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "de1c52ff9f4c2805",
+  "lastOpenFiles": [
+    "Pasted image 20231106091520.png",
+    "TARJA AMARELA.md",
+    "GRAFICO FILTRADO.md",
+    "Tratando o em branco.md",
+    "Power BI/Removendo outilier.md",
+    "Power BI/POWER BI.md",
+    "Power BI/NUMEROS EM PORCENTAGEM.md",
+    "Power BI/INDICE.md",
+    "Power BI/Expressões Dax.md",
+    "Power BI/CRIANDO COLUNAS CONDICIONAIS.md",
+    "Power BI/Sem título.md",
+    "Variaveis  numericas continuas.md",
+    "Efeito sombra.md",
+    "Pasted image 20230927111322.png.md",
+    "Soma entre tabelas diferentes.md",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,4 @@
+A Linux Foundation é uma organização sem fins lucrativos que foi fundada em 2000. Ela tem como objetivo promover e proteger o Linux como um projeto de software livre e colaborativo. Ela patrocina o desenvolvimento do kernel Linux, organiza eventos para a comunidade Linux e fornece recursos para empresas que usam o Linux. A Free Software Foundation (FSF) é a organização sem fins lucrativos fundada por Richard Stallman em 1985. Ela tem como objetivo promover a utilização de software livre e garantir a liberdade dos usuários. A FSF criou a licença GPL, e patrocina o desenvolvimento de vários projetos de software livre, incluindo o Projeto GNU. Além disso, a FSF luta pela liberdade do software e promove a filosofia do software livre
+
+Palavras chaves- Linux fundantion desenvolvimente do linux e seu Kernel, 
+A free fundantio, criado por robert staltman, promoção do software livre, criou a Gpl

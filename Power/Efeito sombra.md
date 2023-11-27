@@ -1,0 +1,1 @@
+selecione o grafico, clique no icone do pincel, selecione geral, efeito e ativa a opçao sombra

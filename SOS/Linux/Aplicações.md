@@ -1,0 +1,1 @@
+O Linux é um sistema operacional versátil e utilizado em uma variedade de aplicações, desde dispositivos como smartphones e Smart TVs, até sistemas de grande porte como servidores e sistemas inteligentes

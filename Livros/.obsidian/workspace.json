@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "03bf2d7c6f6969c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "85b03f8b6ced23f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee377dea8bbfc95a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c909ff3a3e428e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O castelo de if.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0fdb91ff78744ae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6e38fccb5da8766",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d769ef2cd5e11aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "18dded0ca3d296b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5711c25965d30717",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d47000bf24b6c3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "025d5494f12d4acb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b3394987daedaa76",
+    "type": "split",
+    "children": [
+      {
+        "id": "77a9affd7191fc1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03a5f986b787e47c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "O castelo de if.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e56c240130e324a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "O castelo de if.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "332342d4eeb3555f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e84d9bedeca95e98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "O castelo de if.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "4c909ff3a3e428e0",
+  "lastOpenFiles": [
+    "2023-10-01.md",
+    "O castelo de if.md",
+    "O noivado.md",
+    "Power bi.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Untitled",
+    "Untitled 1.canvas",
+    "O conde de monte cristo"
+  ]
+}

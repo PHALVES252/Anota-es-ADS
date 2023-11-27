@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "6dc07f20539eb252",
+    "type": "split",
+    "children": [
+      {
+        "id": "3175cd04bff0e54a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "699d03b474798e50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Expressões Dax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05fed28131d9c039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Removendo outilier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6546f176a280f30",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "662ecef5d5046cd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "816211980f30c20e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "703487181cdca88f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a29033c564d61ad2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "669ee96b757c2159",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adb2c719235330ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "90c4c2db831c5fa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "296b80602f04befa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Expressões Dax.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ead8659bb869d40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Expressões Dax.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21b71313821792b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b275f9f09ab043df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Expressões Dax.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "f6546f176a280f30",
+  "lastOpenFiles": [
+    "GIT",
+    "NUMEROS EM PORCENTAGEM.md",
+    "Removendo outilier.md",
+    "CRIANDO COLUNAS CONDICIONAIS.md",
+    "INDICE.md",
+    "Expressões Dax.md",
+    "Linux/Kernel.md",
+    "Linux/Untitled.md",
+    "Linux/Untitled.canvas",
+    "Linux/Historia.md",
+    "Linux",
+    "POWER BI.md",
+    "Linux/Pasted image 20231006125346.png",
+    "Pasted image 20230929090259.png.md",
+    "Pasted image 20230927111322.png.md"
+  ]
+}

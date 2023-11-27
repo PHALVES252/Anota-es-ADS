@@ -1,0 +1,1 @@
+ Sandaman teve seu primeiro quadrinho publicado em 1989,  que apenas se encerrou em 1996, o que pouca gente sabe são os motivos de que em dado momento, não seria mais a DC a publicar os quadrinho, mais a Editora globo, a duvida pode ficar por conta do selo, o que não tem relação, a verdade 

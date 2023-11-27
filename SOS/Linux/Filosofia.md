@@ -1,0 +1,3 @@
+A filosofia do software livre é baseada no princípio de que este deve ser livre para ser usado, estudado, modificado e distribuído. Isso significa que os usuários não devem ser restritos em suas ações com o software, como é o caso do software proprietário, cujos usuários não podem ver o código fonte e não têm permissão para modificá-lo
+
+Palavras chaves: software livre, pode ser lido, visto, modificado ou distribuido para qualquer um.

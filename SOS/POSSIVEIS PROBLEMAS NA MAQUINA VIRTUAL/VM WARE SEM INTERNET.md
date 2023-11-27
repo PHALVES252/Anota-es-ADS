@@ -1,0 +1,2 @@
+
+Na barra de pesquisas do windows, digite serviços, nos tres servições relacionado ao vm ware clique e coloque no automatico e logo em seguida clique em aplicar, caso já esteja no automatico, pare o serviço clicando em parar  e logo em seguida em iniciar, reinicie a maquina virtual
